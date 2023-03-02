@@ -13,10 +13,10 @@ library(flexdashboard)
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Chart A 
 
 ```{r}
-
+plot(1:10, 1:10)
 ```
 
 Column {data-width=350}
